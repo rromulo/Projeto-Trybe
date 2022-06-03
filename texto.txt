@@ -1,1 +1,3 @@
 Arquivo para testes de pull requests
+Auto-Gestão
+Resolução de problemas
