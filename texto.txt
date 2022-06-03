@@ -1,3 +1,6 @@
 Arquivo para testes de pull requests
+trybe-skills-updates
+aprenderemos Front-End muito bem
 Auto-Gestão
 Resolução de problemas
+main
